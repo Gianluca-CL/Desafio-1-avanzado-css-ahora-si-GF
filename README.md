@@ -1,7 +1,6 @@
 # Desafio-1-avanzado-css-ahora-si-GF
 ## 🔗 Links
-- [Curriculum](https://gianluca-cl.github.io/Curriculum/) 
--
+[- [Chat networking-](https://gianluca-cl.github.io/Desafio-1-avanzado-css-ahora-si-GF/)
 
 ## 📫 Get in Touch
 Feel free to reach out for collaborations or inquiries:
